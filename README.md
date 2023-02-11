@@ -23,3 +23,4 @@ Process:
 Following are the datasets that we will be using:</br>
 Dataset 1: https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india </br>
 Dataset 2: https://www.kaggle.com/datasets/abhinand05/crop-production-in-india
+Dataset 3: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
