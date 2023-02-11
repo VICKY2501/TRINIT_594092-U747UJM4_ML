@@ -16,8 +16,9 @@ Process:
 1. Build Season Prediction ML model from Dataset 2 using Location and Crop as training features.
 2. Make a new Dataframe by - getting Seasons for given datapoints in Dataset 1.
 3. Final DataFarme features - Location, Season, Price.
-4. Suitable Crop Recommendation.
-5. Deployment using Streamlit/Gradio library.
+4. Training the final ML model on new DataFrame.
+5. Suitable Crop Recommendation.
+6. Deployment using Streamlit/Gradio library.
 
 Following are the datasets that we will be using:
 Dataset 1: https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
