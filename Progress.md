@@ -8,6 +8,6 @@ Have build a model which can predict type of crop with its price for some crop o
 Output 1:
 ![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/Images/1.png)
 
-</br>
+
 Output 2:
 ![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/Images/2.png)
