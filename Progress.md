@@ -11,3 +11,11 @@ Output 1:
 
 Output 2:
 ![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/Images/2.png)
+
+
+Output 3:
+![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/one.png)
+
+
+Output 4:
+![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/two.png)
