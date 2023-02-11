@@ -20,6 +20,6 @@ Process:
 5. Suitable Crop Recommendation.
 6. Deployment using Streamlit/Gradio library.
 
-Following are the datasets that we will be using:
-Dataset 1: https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
+Following are the datasets that we will be using:</br>
+Dataset 1: https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india </br>
 Dataset 2: https://www.kaggle.com/datasets/abhinand05/crop-production-in-india
