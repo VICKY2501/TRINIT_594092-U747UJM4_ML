@@ -13,6 +13,11 @@ Output 2:
 ![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/Images/2.png)
 
 
+1. State
+2. District
+3. Season
+4. Price (under 220, 29250)
+
 Output 3:
 ![Screenshot](https://raw.githubusercontent.com/VICKY2501/TRINIT_594092-U747UJM4_ML/main/one.png)
 
