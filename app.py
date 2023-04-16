@@ -208,7 +208,8 @@ ph = st.number_input('pH: ')
 rain = st.number_input('Rainfall: ')
 
 inputData = np.array([[N, P, K, temp, hum, ph, rain]])
-
+if ph<3.5 or ph>10.3:
+    st.text("Kindly Provide suitable ph range")
 if st.button('Predict Crop', key=1):
     
     if allZero(inputData):
