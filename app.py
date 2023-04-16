@@ -178,7 +178,6 @@ def allZero(arr):
 
 
 # import model:
-import pandas as pd
 import numpy as np
 model = pickle.load(open('Models\RandomForest.pkl','rb'))
 
