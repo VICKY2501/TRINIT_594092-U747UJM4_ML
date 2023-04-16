@@ -25,5 +25,5 @@ Dataset 1: https://www.kaggle.com/datasets/thammuio/all-agriculture-related-data
 Dataset 2: https://www.kaggle.com/datasets/abhinand05/crop-production-in-india </br>
 Dataset 3: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
-DEMO:
+DEMO:</br>
 Link: https://vicky2501-trinit-594092-u747ujm4-ml-app-q4owwd.streamlit.app/
