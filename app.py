@@ -179,7 +179,7 @@ def allZero(arr):
 
 # import model:
 import numpy as np
-model = pickle.load(open('Models\RandomForest.pkl','rb'))
+model = pickle.load(open('RandomForest.pkl','rb'))
 
 
 with st.sidebar:
@@ -231,7 +231,7 @@ distMap = {'24 PARAGANAS NORTH': 0, '24 PARAGANAS SOUTH': 1, 'ADILABAD': 2, 'AGA
 # Season = st.number_input('Season: ')
 # District = st.number_input('District: ')
 
-model2 = pickle.load(open('Models\svm.pkl','rb'))
+model2 = pickle.load(open('svm.pkl','rb'))
 
 state = st.selectbox(
      'Select State: ',
