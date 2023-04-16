@@ -1,6 +1,6 @@
 
 import numpy as np
-
+import sklearn
 import pickle
 import streamlit as st
 st.title("Crop Prediction on Soil factors")
@@ -181,7 +181,7 @@ def allZero(arr):
 import numpy as np
 import pickle
 import streamlit as st
-
+import sklearn
 model = pickle.load(open('RandomForest.pkl','rb'))
 
 
