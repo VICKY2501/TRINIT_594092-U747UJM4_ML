@@ -181,6 +181,7 @@ def allZero(arr):
 import numpy as np
 import pickle
 import streamlit as st
+
 model = pickle.load(open('RandomForest.pkl','rb'))
 
 
