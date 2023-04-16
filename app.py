@@ -233,7 +233,10 @@ distMap = {'24 PARAGANAS NORTH': 0, '24 PARAGANAS SOUTH': 1, 'ADILABAD': 2, 'AGA
 # State = st.number_input('State: ')
 # Season = st.number_input('Season: ')
 # District = st.number_input('District: ')
-
+import numpy as np
+import pickle
+import streamlit as st
+import sklearn
 model2 = pickle.load(open('svm.pkl','rb'))
 
 state = st.selectbox(
